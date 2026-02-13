@@ -29,9 +29,9 @@ The objective is to evaluate and compare deep learning and transformer-based arc
 
 To evaluate robustness and performance stability, the dataset was divided into three batches:
 
-- **Small Batch:** 500 rows  
-- **Medium Batch:** 1,000 rows  
-- **Large Batch:** 2,566 rows  
+- **Small Batch 
+- **Medium Batch
+- **Large Batch
 
 Each model (LSTM, BERT, GPT-3) was trained and evaluated on all three batches. This approach allows comparison of model behavior across increasing dataset sizes and ensures reproducibility.
 
