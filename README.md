@@ -171,34 +171,3 @@ Project Structure
 
 Nikita
 Aspiring Data Analyst | NLP & Machine Learning Enthusiast
-
-
-
-Project Structure
-├── dataset/
-├── graphs/
-│   ├── confusionMatrix.png
-│   ├── models_accuracy.png
-│   ├── multi-line_graph.png
-│   ├── precision-recall-curve.png
-│   ├── roc curves.png
-│   ├── validation_loss_bert.png
-│   └── validation_loss_lstm.png
-├── python/
-│   ├── ROC-AUC.py
-│   ├── Train_Evaluate_BERT.py
-│   ├── Train_Evaluate_GPT-3.py
-│   ├── Train_Evaluate_LSTM.py
-│   ├── batches_accuracy.py
-│   ├── heat_map.py
-│   ├── multi-line.py
-│   └── precision_recall.py
-├── screenshots/
-│   ├── label_distribution_large_dataset.png
-│   ├── label_distribution_medium_dataset.png
-│   ├── label_distribution_small_dataset.png
-│   ├── sample_distribution_large_dataset.png
-│   ├── sample_distribution_medium_dataset.png
-│   └── sample_distribution_small_dataset.png
-└── README.md
-
